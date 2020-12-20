@@ -6,3 +6,6 @@ Estimates of the real number of infected people and predictions for the future w
 
 The countries dataset was used to update and store the epidemiological values of the anlysed countries.
 The other codes were used to analyse the data.
+
+By Stefano Veroni and José Antonio Guzmàn Funck
+Supervisor: Kilian D Stenning
