@@ -1,4 +1,4 @@
-# epidemiological_model
+# Epidemiological_model
 Modelled COVID-19 pandemic with a system of 9 first order differential equations. 
 The system was fitted to the values of the pandemic in Italy, UK, India, Brazil and Sweden, up to June,
 and numerically solved using MCMC statistical methods in python’s lmfit module. It was also fitted to 
